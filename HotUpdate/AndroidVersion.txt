@@ -1,0 +1,21 @@
+{
+"ForceUpdateGame": false,
+
+"LatestGameVersion": "0.1.0",
+
+"InternalGameVersion": 1,
+
+"InternalResourceVersion": 3,
+
+"UpdatePrefixUri": "http://10.192.19.30:8080/0_1_0_3/Android",
+
+"VersionListLength": 6823,
+
+"VersionListHashCode": 1050134640,
+
+"VersionListCompressedLength": 2464,
+
+"VersionListCompressedHashCode": -888015598,
+
+"END_OF_JSON": ""
+}
